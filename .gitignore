@@ -1,0 +1,25 @@
+# Local build products and private signing material
+/build/
+/deliverables/
+/release/
+/wrapper-menu-key.p12
+*.keystore
+*.jks
+*.p12
+*.apk
+*.apkm
+*.apks
+*.aab
+*.pdb
+
+# Gradle and Android Studio local state
+**/.gradle/
+**/.kotlin/
+**/build/
+**/local.properties
+**/.idea/
+
+# Windows and Python local files
+Thumbs.db
+__pycache__/
+*.pyc

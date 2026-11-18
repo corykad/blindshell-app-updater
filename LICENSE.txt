@@ -1,0 +1,32 @@
+Copyright (c) 2026. This project's original source code is licensed under the MIT License.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Bundled Android tools and Java runtime retain their own licenses. Android
+NOTICE files and Java legal files are embedded with the tools and extracted
+under %LOCALAPPDATA%\BlindShellUpdater\tools on first launch. The Java runtime
+is derived from JetBrains Runtime / OpenJDK; its legal files include the GPLv2
+with Classpath Exception terms. Corresponding upstream source is available at
+https://github.com/JetBrains/JetBrainsRuntime . Exact runtime build information
+is in the bundled java/release file. No Meta or BlindShell APK is redistributed.
+
+The Android helper incorporates Aurora OSS GPlayApi, licensed GPL-3.0-or-later.
+Its source is https://gitlab.com/AuroraOSS/gplayapi and its exact dependency is
+com.auroraoss:gplayapi:4.0.0. The helper source is provided in aurora-helper;
+GPL terms are available at https://www.gnu.org/licenses/gpl-3.0.html.
